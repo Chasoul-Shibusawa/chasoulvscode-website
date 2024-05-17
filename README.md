@@ -1,5 +1,5 @@
 Struktur Dasar
-HTML Doctype dan Head:
+Website
 
 <html lang="en">: Menentukan bahasa dokumen.
 <head>: Berisi metadata seperti karakter set, viewport, favicon, title, deskripsi, dan kata kunci untuk SEO. Juga, menghubungkan stylesheet dashboard.css.
